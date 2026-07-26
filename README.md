@@ -33,3 +33,4 @@ nithesh-yadav-portfolio/
 ├── script.js          # DOM rendering engine, theme switcher, filters & scroll animations
 ├── profile.jpg        # Hero section avatar image
 └── README.md          # Project guide & deployment instructions
+
