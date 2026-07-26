@@ -44,7 +44,7 @@
   --font-main: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', monospace, Consolas;
 
-  --container-max: 1320px;
+  --container-max: 1120px;
   --header-height: 80px;
   --radius-glass: 24px;
   --radius-pill: 9999px;
