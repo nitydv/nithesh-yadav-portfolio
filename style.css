@@ -36,14 +36,10 @@
   --font-main: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', monospace, Consolas;
 
-<<<<<<< HEAD
 
   --page-zoom: 75%;  
   --page-width: 100%; 
   --container-max: 1240px;  
-=======
-  --container-max: 1120px;
->>>>>>> e6723a1c2d064e45b2fab59ebba5e6eb3fc6f63d
   --header-height: 80px;
   --radius-glass: 24px;
   --radius-pill: 9999px;
