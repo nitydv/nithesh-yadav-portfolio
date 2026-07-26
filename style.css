@@ -36,7 +36,10 @@
   --font-main: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', monospace, Consolas;
 
-  --container-max: 1320px;
+
+  --page-zoom: 75%;  
+  --page-width: 100%; 
+  --container-max: 1240px;  
   --header-height: 80px;
   --radius-glass: 24px;
   --radius-pill: 9999px;
@@ -100,9 +103,15 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: var(--header-height);
   font-size: 16px;
+  width: var(--page-width, 100%);
+  max-width: 100%;
+  margin: 0 auto;
+  zoom: var(--page-zoom, 100%);
 }
 
 body {
+  width: 100%;
+  max-width: 100%;
   font-family: var(--font-main);
   background-color: var(--bg-canvas);
   color: var(--text-primary);
