@@ -24,9 +24,7 @@
 
 <h2>⚡️ Quick Overview</h2>
 
-- 🎓 **Education**: B.E. in **Information Technology** @ **Army Institute of Technology, Pune** (SPPU) *(2024 — Expected June 2028 | **CGPA: 8.36 / 10.0**)*
-- 🔭 **Current Focus**: Engineering scalable full-stack applications with **Java, Spring Boot & React**, while exploring **Cloud Computing & Distributed Systems**.
-- 👨‍💻 **Core Projects**: Engineered [SkillSyncAI](https://github.com/nitydv/SkillSyncAI), [PayPal-Clone](https://github.com/nitydv/PayPal-Clone), and scalable [Spring Boot E-Commerce Microservices](https://github.com/nitydv/ecommerce-Backend-Spring-Boot).
+- 🎓 **Education**: B.E. in **Information Technology** @ **Army Institute of Technology, Pune** (SPPU) *(2024 — Expected June 2028)*
 - 🌟 **Community Leadership**: **GitHub Campus Expert**, **AWS Student Builder**, **Google Developer Groups (GDG) Organizer**, **Microsoft Learn Student Ambassador (Gold)**, and **Cloud Tech Expert @ GDSC AIT**.
 - 🏆 **Achievements**: **5x Hackathon Winner**, Certified **Postman Student Expert**, and **Google Cloud Arcade Program Premium Milestone Winner**.
 - 💬 **Ask me about**: Full-Stack Web Architecture, Java/Spring Boot Microservices, Cloud Infrastructure (GCP/AWS), and DSA.
@@ -108,22 +106,23 @@
 
 <br />
 
+
+
 <h2>📊 GitHub Stats & Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitydv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=6366f1&icon_color=818cf8" alt="Nithesh's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitydv&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nitydv&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=818cf8" alt="Nithesh's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nitydv&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitydv&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nitydv&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak Stats" />
 </div>
 
-<hr />
+<br />
 
 <div align="center">
-  <p><i>"Building software that scales and empowering developer communities everywhere."</i></p>
-  <p>Designed with ❤️ by <a href="https://github.com/nitydv"><b>Nithesh Yadav (@nitydv)</b></a></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitydv&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
