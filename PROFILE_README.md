@@ -5,7 +5,6 @@
   <p><b>Software Engineering Student @ AIT Pune | Full-Stack & Cloud Developer</b></p>
 
   <p>
-    <a href="https://nitydv.github.io"><img src="https://img.shields.io/badge/Portfolio-nitydv.github.io-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a>
     <a href="https://linkedin.com/in/nitydv"><img src="https://img.shields.io/badge/LinkedIn-@nitydv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="https://credly.com/users/nitydv"><img src="https://img.shields.io/badge/Credly-@nitydv-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"></a>
     <a href="https://instagram.com/nit.ydv"><img src="https://img.shields.io/badge/Instagram-@nit.ydv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
@@ -100,36 +99,6 @@
 
 <br />
 
-<h2>📌 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 <a href="https://github.com/nitydv/SkillSyncAI">SkillSyncAI Clone</a></h3>
-      <p>Engineered a Java-based platform to help users assess their technical skills and identify gaps against target software engineering roles, featuring personalized learning path recommendations.</p>
-      <p align="center"><code>Java</code> • <code>System Design</code> • <code>Algorithms</code> • <code>OOP</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💳 <a href="https://github.com/nitydv/PayPal-Clone">PayPal-Clone</a></h3>
-      <p>Architected a full-stack digital payments application replicating core PayPal functionality — user authentication, wallet balance management, P2P money transfers, and complete transaction logs.</p>
-      <p align="center"><code>Java</code> • <code>Full-Stack</code> • <code>REST APIs</code> • <code>Authentication</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 <a href="https://github.com/nitydv/ecommerce-Backend-Spring-Boot">ecommerce-Backend</a></h3>
-      <p>Built a RESTful backend for an e-commerce platform using Java and Spring Boot with robust APIs for product catalogs, shopping cart operations, and order processing.</p>
-      <p align="center"><code>Java</code> • <code>Spring Boot</code> • <code>REST APIs</code> • <code>SQL</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚛️ <a href="https://github.com/nitydv/Spring-Boot-Rest">Spring-Boot-Rest</a></h3>
-      <p>Full-stack web application pairing a Spring Boot REST backend with a responsive React frontend, demonstrating clean RESTful API integration and client-server state handling.</p>
-      <p align="center"><code>Java</code> • <code>Spring Boot</code> • <code>React</code> • <code>Full-Stack</code></p>
-    </td>
-  </tr>
-</table>
-
-<br />
 
 <h2>🏆 Achievements & Certifications</h2>
 
